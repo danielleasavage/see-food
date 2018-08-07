@@ -3,7 +3,7 @@
 Here you will find data from the Food and Agriculture Organization of the United Nations for the years 1961-2013. The visualizations we have developed are intended to paint a broader picture of where your food used to come from and where it comes from now. We hope that the spread of this information will spark conversations about sourcing food locally.
 
 Project website: https://danielleasavage.github.io/see-food/   
-Presentation slides: 
+Presentation slides: https://docs.google.com/presentation/d/1eK1Wm6boNiO8aSxrhnCFt7SuztPiFmQVlCOymAxcPig/edit?usp=sharing
 
 ### About Us
 
